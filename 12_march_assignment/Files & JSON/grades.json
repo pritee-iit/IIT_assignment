@@ -1,0 +1,17 @@
+{
+    "Rahul": {
+        "Math": 85,
+        "Science": 90,
+        "English": 78
+    },
+    "Priya": {
+        "Math": 92,
+        "Science": 88,
+        "English": 95
+    },
+    "Amit": {
+        "Math": 76,
+        "Science": 82,
+        "English": 80
+    }
+}
